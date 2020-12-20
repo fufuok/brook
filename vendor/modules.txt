@@ -1,0 +1,85 @@
+# github.com/cpuguy83/go-md2man/v2 v2.0.0-20190314233015-f79a8a8ca69d
+github.com/cpuguy83/go-md2man/v2/md2man
+# github.com/gorilla/mux v1.8.0
+## explicit
+github.com/gorilla/mux
+# github.com/gorilla/websocket v1.4.2
+## explicit
+github.com/gorilla/websocket
+# github.com/mdp/qrterminal v1.0.1
+## explicit
+github.com/mdp/qrterminal
+# github.com/miekg/dns v1.1.35
+## explicit
+github.com/miekg/dns
+# github.com/patrickmn/go-cache v2.1.0+incompatible
+## explicit
+github.com/patrickmn/go-cache
+# github.com/russross/blackfriday/v2 v2.0.1
+github.com/russross/blackfriday/v2
+# github.com/shurcooL/sanitized_anchor_name v1.0.0
+github.com/shurcooL/sanitized_anchor_name
+# github.com/tdewolff/minify v2.3.6+incompatible
+## explicit
+github.com/tdewolff/minify
+github.com/tdewolff/minify/js
+# github.com/tdewolff/parse v2.3.4+incompatible
+## explicit
+github.com/tdewolff/parse
+github.com/tdewolff/parse/buffer
+github.com/tdewolff/parse/js
+github.com/tdewolff/parse/strconv
+# github.com/tdewolff/test v1.0.6
+## explicit
+# github.com/txthinking/encrypt v0.0.0-20201123091414-be062b27c0de
+## explicit
+github.com/txthinking/encrypt
+# github.com/txthinking/runnergroup v0.0.0-20200327135940-540a793bb997
+## explicit
+github.com/txthinking/runnergroup
+# github.com/txthinking/socks5 v0.0.0-20201123045853-9265fe887898
+## explicit
+github.com/txthinking/socks5
+# github.com/txthinking/x v0.0.0-20201210150116-a8015a742c8c
+## explicit
+github.com/txthinking/x
+# github.com/urfave/cli v1.22.5 => github.com/urfave/cli/v2 v2.3.0
+## explicit
+github.com/urfave/cli
+# github.com/urfave/negroni v1.0.0
+## explicit
+github.com/urfave/negroni
+# golang.org/x/crypto v0.0.0-20201217014255-9d1352758620
+## explicit
+golang.org/x/crypto/acme
+golang.org/x/crypto/acme/autocert
+golang.org/x/crypto/ed25519
+golang.org/x/crypto/ed25519/internal/edwards25519
+golang.org/x/crypto/hkdf
+# golang.org/x/net v0.0.0-20201216054612-986b41b23924
+## explicit
+golang.org/x/net/bpf
+golang.org/x/net/idna
+golang.org/x/net/internal/iana
+golang.org/x/net/internal/socket
+golang.org/x/net/internal/socks
+golang.org/x/net/ipv4
+golang.org/x/net/ipv6
+golang.org/x/net/proxy
+# golang.org/x/sys v0.0.0-20201119102817-f84b799fce68
+golang.org/x/sys/internal/unsafeheader
+golang.org/x/sys/unix
+golang.org/x/sys/windows
+# golang.org/x/text v0.3.3
+golang.org/x/text/encoding
+golang.org/x/text/encoding/internal
+golang.org/x/text/encoding/internal/identifier
+golang.org/x/text/encoding/simplifiedchinese
+golang.org/x/text/secure/bidirule
+golang.org/x/text/transform
+golang.org/x/text/unicode/bidi
+golang.org/x/text/unicode/norm
+# rsc.io/qr v0.2.0
+rsc.io/qr
+rsc.io/qr/coding
+rsc.io/qr/gf256

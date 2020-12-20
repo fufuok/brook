@@ -1,0 +1,23 @@
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# common
+#.gitignore
+.vscode
+.idea
+/tmp
+*.mmap
+*.log
+*.exe
+*.bak
+*.zip
+*.7z
+*.rar
+*.gz
+*.tar
+XY.docs
+main
+#vendor
+dist
